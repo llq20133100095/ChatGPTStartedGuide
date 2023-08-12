@@ -7,12 +7,14 @@ ChatGPT在生活中应用得最多的能力，当然要数其总结文章的能�
 
 1. 首先你当然需要有一个具体的ChatGPT账号，怎么申请可以看这篇文章：
 
-[ChatGPT它还能玩出什么花来？](https://www.yuque.com/yuqueyonghumaryyq/vou788/olteqnxh37i8lno3?view=doc_embed)
+[ChatGPT它还能玩出什么花来？](./账号申请和充值/ChatGPT它还能玩出什么花来？.md)
+
 如果实在申请不了，也可以去某宝买一个账号，几十块就有了。
 
 2. 然后要准备一个可以用的chatgpt 的api key，怎么申请信用卡和绑定教程可以看这里：
 
-[ChatGPT账号申请+充值API和Plus账号](https://www.yuque.com/yuqueyonghumaryyq/vou788/zbr028rgulk2fqme?view=doc_embed)
+[账号申请和充值/ChatGPT账号申请+充值API和Plus账号](./账号申请和充值/ChatGPT账号申请+充值API和Plus账号.md)
+
 本质上其实是在软件上申请一个虚拟的信用卡，信用卡充值需要用到USDT货币，就在殴易平台上充值就可以了。
 
 3. 在官网上绑定信用卡后，就可以开始调用chatgpt的api key了
