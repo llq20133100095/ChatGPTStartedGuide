@@ -85,5 +85,6 @@ driver = webdriver.Chrome(options=options)
 整体来看，利用ChatGPT就可以做到很好的闭环，不需要自己写大量的代码，就可以轻松实现一个爬虫+总结的工具。这个工具能够帮你一下子总结很多的内容文章，极大提高工作效率。所有代码存放在这里：，感兴趣的可以去下载来手动实现一下。
 
 好了，以上就是本期的内容了，我是leo，我们下期再见~
+
 ![qrcode_for_gh_f4f620aeff8d_258.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/29330410/1691828548656-5ca04fb7-a311-4e71-97a5-9ac1b8bf4efd.jpeg#averageHue=%23a6a4a3&clientId=u1db345b5-f434-4&from=paste&height=229&id=u13bc0260&originHeight=258&originWidth=258&originalType=binary&ratio=1.3499999046325684&rotation=0&showTitle=false&size=27597&status=done&style=none&taskId=u9ca12fd2-c728-4652-a4ae-b5a3981ecf4&title=&width=229.33333333333334)
 
