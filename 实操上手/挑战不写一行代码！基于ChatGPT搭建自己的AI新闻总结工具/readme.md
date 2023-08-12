@@ -76,6 +76,7 @@ driver = webdriver.Chrome(options=options)
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/29330410/1691828120616-e926ce19-abc2-47b6-9c3d-55334c9d6a8b.png#averageHue=%236dad85&clientId=u1db345b5-f434-4&from=paste&height=538&id=u39b52f73&originHeight=605&originWidth=545&originalType=binary&ratio=1.3499999046325684&rotation=0&showTitle=false&size=40344&status=done&style=none&taskId=u0db5ac08-76fb-43f1-9372-06a895ed45b&title=&width=484.44444444444446)
 
 得到ChatGPT总结的内容：
+
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/29330410/1691828360259-b0a22bb6-cf7d-46ca-8a41-2e777a79f091.png#averageHue=%233e3e37&clientId=u1db345b5-f434-4&from=paste&height=229&id=u3f454267&originHeight=258&originWidth=747&originalType=binary&ratio=1.3499999046325684&rotation=0&showTitle=false&size=41130&status=done&style=none&taskId=ub9c8db8b-4260-4c19-99c2-f7efc2c1db9&title=&width=664)
 
 # 总结
