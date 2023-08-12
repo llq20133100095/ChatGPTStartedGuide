@@ -79,6 +79,7 @@
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/29330410/1691547668988-64b1b17f-972b-4a2e-9a19-bb126a5a331e.png#averageHue=%23f3f3f3&clientId=u29fff109-6cb4-4&from=paste&id=ud1d680d4&originHeight=725&originWidth=520&originalType=url&ratio=1.3499999046325684&rotation=0&showTitle=false&size=58870&status=done&style=none&taskId=u193d03e1-0a34-44a1-a4dd-cc94ea34f77&title=)
 
 3、欧易提现到Depay成功后，点击Depay App钱包——兑换，将所有的USDT都兑换成USD美元
+
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/29330410/1691547669290-fc8ccdf1-5052-45b3-b8b3-c317b6a206ef.png#averageHue=%23ebf0f7&clientId=u29fff109-6cb4-4&from=paste&id=uc298d0e0&originHeight=722&originWidth=333&originalType=url&ratio=1.3499999046325684&rotation=0&showTitle=false&size=50867&status=done&style=none&taskId=ua12e0b7a-b156-4782-a137-c5df933ac1e&title=)
 
 4、点击Depay App首页的To Card，将兑换的美元存入卡中，到此，Depay充值大功告成。
