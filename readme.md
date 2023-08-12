@@ -11,7 +11,7 @@
 
 ## 1.账号申请和充值
 
-1. [ChatGPT它还能玩出什么花来？](./账号申请和充值/ChatGPT它还能玩出什么花来？.md)
+1. [ChatGPT账号申请](./账号申请和充值/ChatGPT账号申请.md)
 
 2. [账号申请和充值/ChatGPT账号申请+充值API和Plus账号](./账号申请和充值/ChatGPT账号申请+充值API和Plus账号.md)
 
