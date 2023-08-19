@@ -10,9 +10,11 @@
 **另一个优点可以节省推理空间：**利用Multi-Query Attention技术，ChatGLM2-6B具有更高效的推理速度和更低的显存占用。
 
 在2048长度的文本输入下，其推理速度比ChaGLM第一代模型快13秒
+
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/29330410/1688213736045-6c207ce6-b6a6-414e-849e-3f26852e8de8.png#averageHue=%23e0be8d&clientId=ufedaf2c9-cc65-4&from=paste&height=145&id=u8692ae06&originHeight=163&originWidth=388&originalType=binary&ratio=1.125&rotation=0&showTitle=false&size=13047&status=done&style=none&taskId=u2adfd31f-cb44-45c8-bbd5-29e1a3e5443&title=&width=344.8888888888889)
 
 该项目目前已经有6.6K星：[https://github.com/THUDM](https://github.com/THUDM)
+
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/29330410/1688213462551-37524260-db1b-4d05-9fec-9f546c87ec88.png#averageHue=%230f141b&clientId=ufedaf2c9-cc65-4&from=paste&height=165&id=ua709e504&originHeight=186&originWidth=584&originalType=binary&ratio=1.125&rotation=0&showTitle=false&size=12578&status=done&style=none&taskId=u9b643d0d-d60a-44a8-8c8d-b9cf8aeef88&title=&width=519.1111111111111)
 
 # 使用方法
@@ -56,5 +58,6 @@ pip install -r requirements.txt
 从结果上看，ChatGLM2和GPT4的结果答案很相似，说明整体的模型效果确实能够不断接近GPT4了。
 
 好了，以上就是本期的内容了，我是leo，我们下期再见~
+
 ![qrcode_for_gh_f4f620aeff8d_258.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/29330410/1684843258048-f02f7c43-fa7b-45e9-b5f5-407e2dc19f09.jpeg#averageHue=%23a6a4a3&clientId=ubdcac386-b027-4&from=paste&height=215&id=u42b2ea6f&originHeight=258&originWidth=258&originalType=binary&ratio=1.2000000476837158&rotation=0&showTitle=false&size=27597&status=done&style=none&taskId=ue570be85-7a93-44fe-aeea-c09ace4442e&title=&width=214.9999914566679)
 
